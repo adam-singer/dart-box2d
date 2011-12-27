@@ -1,0 +1,7 @@
+An attempt to bring box2d to dart. Currently only the common lib is implement along with unit tests for each object. 
+
+References: 
+http://box2d.org/
+http://www.jbox2d.org/
+http://code.google.com/p/box2dx/
+
